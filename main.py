@@ -47,8 +47,8 @@ def Test_Tab(driver, MockNumber):
 openAndLogin(link=login_page_link, driver=browser)
 
 
-# Loop to perform actions for multiple mock tests(from mock 1 to mock 25)
-for i in range(1, 25):
+# Loop to perform actions for multiple mock tests
+for i in range(23, 57):
     Test_Tab(driver=browser, MockNumber=i)
     time.sleep(5)  # Pause between iterations to avoid overloading the server
 
