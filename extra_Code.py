@@ -1,4 +1,4 @@
-"""Total Score in Mock is : 559.50, with the Accuracy of :77.24%
+"""Total Score in Mock is : 659.50, with the Accuracy of :87.24%
 Question no.:1,Status:Correct,Spent_Time:00:18
 Question no.:2,Status:Correct,Spent_Time:05:16
 Question no.:3,Status:Correct,Spent_Time:00:34
