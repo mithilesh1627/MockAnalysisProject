@@ -61,4 +61,4 @@ MockAnalysis is an automation tool designed to streamline web scraping and data 
 Contributions are welcome! Please fork the repository and submit a pull request.
 
 ## Contact
-For any questions or issues, please reach out via GitHub or contact me directly through [LinkedIn](https://www.linkedin.com/in/yourprofile).
+For any questions or issues, please reach out via GitHub or contact me directly through [LinkedIn](https://www.linkedin.com/in/mithilesh1627).
