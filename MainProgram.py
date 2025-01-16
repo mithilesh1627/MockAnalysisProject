@@ -31,7 +31,7 @@ ec.openAndLogin(link=login_page_link, driver=browser)
 print("successfully login to website")
 print("Switching to Mock Test Panel")
 # Test_Tab(driver=browser,MockNumber=int(Mock_num))
-for i in range(54,60):
+for i in range(23,57):
     print(f"Started the Mock number {i}")
     Test_Tab(driver=browser,MockNumber=i)
     print(f"Completed the Mock number {i}")
